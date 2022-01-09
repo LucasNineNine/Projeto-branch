@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header{
+    background: rgb(86, 97, 109);
+}
+main{
+    background: lightslategray;
+}
+section{
+    background: rgb(150, 164, 179);
+}
+aside{
+    background: rgb(177, 194, 211);
+}
